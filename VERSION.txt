@@ -1,1 +1,1 @@
-v10 — Fumée aux cheminées, PNJ en maillages 2D animables
+v11 — PNJ 3D riggés (Blender), fond indépendant
